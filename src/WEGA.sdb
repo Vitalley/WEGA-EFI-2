@@ -1,0 +1,1308 @@
+[p PRO_MODE GLOBOPT AUTOSTATIC IEEE_DBL LFSROK SPEEDOPT IEEE_FLT ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F46K22 ]
+[d frameptr 4065 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\abdiv.c
+[v ___abdiv __abdiv `(c  1 e 1 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\abmod.c
+[v ___abmod __abmod `(c  1 e 1 0 ]
+"31 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\abtofl.c
+[v ___abtofl __abtofl `(d  1 e 4 0 ]
+"33 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\abtoft.c
+[v ___abtoft __abtoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\almod.c
+[v ___almod __almod `(l  1 e 4 0 ]
+"36 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\altofl.c
+[v ___altofl __altofl `(d  1 e 4 0 ]
+"42 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\altoft.c
+[v ___altoft __altoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\atdiv.c
+[v ___atdiv __atdiv `(m  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\atmod.c
+[v ___atmod __atmod `(m  1 e 3 0 ]
+"37 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\attofl.c
+[v ___attofl __attofl `(d  1 e 4 0 ]
+"37 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\attoft.c
+[v ___attoft __attoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"31 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\awtofl.c
+[v ___awtofl __awtofl `(d  1 e 4 0 ]
+"32 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\awtoft.c
+[v ___awtoft __awtoft `(f  1 e 4 0 ]
+"63 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\double.c
+[v ___flpack __flpack `(d  1 e 4 0 ]
+"88 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\fladd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"49 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\fldiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\flmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\flneg.c
+[v ___flneg __flneg `(d  1 e 4 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"20 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\flsub.c
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"43 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"49 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftge.c
+[v ___ftge __ftge `(b  1 e 0 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftneg.c
+[v ___ftneg __ftneg `(f  1 e 4 0 ]
+"20 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"44 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\fttol.c
+[v ___fttol __fttol `(l  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lbdiv.c
+[v ___lbdiv __lbdiv `(uc  1 e 1 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lbmod.c
+[v ___lbmod __lbmod `(uc  1 e 1 0 ]
+"27 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lbtofl.c
+[v ___lbtofl __lbtofl `(d  1 e 4 0 ]
+"27 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lbtoft.c
+[v ___lbtoft __lbtoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lldiv.c
+[v ___lldiv __lldiv `(ul  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\llmod.c
+[v ___llmod __llmod `(ul  1 e 4 0 ]
+"30 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lltofl.c
+[v ___lltofl __lltofl `(d  1 e 4 0 ]
+"35 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lltoft.c
+[v ___lltoft __lltoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ltmod.c
+[v ___ltmod __ltmod `(um  1 e 3 0 ]
+"30 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lttofl.c
+[v ___lttofl __lttofl `(d  1 e 4 0 ]
+"30 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lttoft.c
+[v ___lttoft __lttoft `(f  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+[v i2___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+"28 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwtofl.c
+[v ___lwtofl __lwtofl `(d  1 e 4 0 ]
+"28 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwtoft.c
+[v ___lwtoft __lwtoft `(f  1 e 4 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul24.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+[v i1___tmul __tmul `(um  1 e 3 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asfladd.c
+[v ___asfladd __asfladd `T(d  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asfldiv.c
+[v ___asfldiv __asfldiv `T(d  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asflmul.c
+[v ___asflmul __asflmul `T(d  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asflsub.c
+[v ___asflsub __asflsub `T(d  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asftadd.c
+[v ___asftadd __asftadd `T(f  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asftdiv.c
+[v ___asftdiv __asftdiv `T(f  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asftmul.c
+[v ___asftmul __asftmul `T(f  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\asftsub.c
+[v ___asftsub __asftsub `T(f  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\aslmul.c
+[v ___aslmul __aslmul `T(ul  1 e 4 0 ]
+"22 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcconv.c
+[v _ConvertADC ConvertADC `(v  1 e 0 0 ]
+[v i1_ConvertADC ConvertADC `(v  1 e 0 0 ]
+"305 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcopen.c
+[v _OpenADC OpenADC `(v  1 e 0 0 ]
+"24 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcread.c
+[v _ReadADC ReadADC `(i  1 e 2 0 ]
+"49 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcsetch.c
+[v _SetChanADC SetChanADC `(v  1 e 0 0 ]
+[v i1_SetChanADC SetChanADC `(v  1 e 0 0 ]
+"46 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em1open.c
+[v _OpenECompare1 OpenECompare1 `(v  1 e 0 0 ]
+"71 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em2open.c
+[v _OpenECompare2 OpenECompare2 `(v  1 e 0 0 ]
+"54 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em3open.c
+[v _OpenECompare3 OpenECompare3 `(v  1 e 0 0 ]
+[v i2_OpenECompare3 OpenECompare3 `(v  1 e 0 0 ]
+"88 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\PWM\pw5open.c
+[v _OpenPWM5 OpenPWM5 `(v  1 e 0 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\PWM\pw5setdc.c
+[v _SetDCPWM5 SetDCPWM5 `(v  1 e 0 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\Timers\t3read.c
+[v _ReadTimer3 ReadTimer3 `(ui  1 e 2 0 ]
+"17 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\Timers\t6open.c
+[v _OpenTimer6 OpenTimer6 `(v  1 e 0 0 ]
+"9 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _Fuel_Calculate Fuel_Calculate `(v  1 e 0 0 ]
+"99
+[v _LGP_st LGP_st `(b  1 e 0 0 ]
+"106
+[v _CheckInj CheckInj `(v  1 e 0 0 ]
+"141
+[v _ReadTable ReadTable `(ui  1 e 2 0 ]
+"152
+[v _Get_Table_tiny Get_Table_tiny `(uc  1 e 1 0 ]
+"160
+[v _Get_VE Get_VE `(uc  1 e 1 0 ]
+"171
+[v _map map `(l  1 e 4 0 ]
+"177
+[v _IntpRes IntpRes `(i  1 e 2 0 ]
+"182
+[v _IntpResL IntpResL `(i  1 e 2 0 ]
+"188
+[v _SMA_filter SMA_filter `(i  1 e 2 0 ]
+"200
+[v _EX_filter EX_filter `(i  1 e 2 0 ]
+"215
+[v _VE VE `(uc  1 e 1 0 ]
+"13 D:\DOC\Project\WEGA\WEGA2\IAC.c
+[v _STP_Open STP_Open `(v  1 e 0 0 ]
+"23
+[v _STP_Close STP_Close `(v  1 e 0 0 ]
+"33
+[v _STP_Init STP_Init `(v  1 e 0 0 ]
+"44
+[v _STP_Set STP_Set `(v  1 e 0 0 ]
+"49
+[v _IAC_Stab IAC_Stab `(v  1 e 0 0 ]
+"8 D:\DOC\Project\WEGA\WEGA2\Injection.c
+[v _AllInjectionClose AllInjectionClose `(v  1 e 0 0 ]
+"70
+[v _SetInjection SetInjection `(v  1 e 0 0 ]
+"97
+[v _CompareGroup1 CompareGroup1 `(v  1 e 0 0 ]
+"113
+[v _CompareGroup2 CompareGroup2 `(v  1 e 0 0 ]
+"21 D:\DOC\Project\WEGA\WEGA2\linInterp.c
+[v _linInterp2D linInterp2D `(i  1 e 2 0 ]
+"29
+[v _linInterp3D linInterp3D `(i  1 e 2 0 ]
+"57
+[v _findZ findZ `(i  1 e 2 0 ]
+"31 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _INIT INIT `(v  1 e 0 0 ]
+"152
+[v _Motor_stopped Motor_stopped `(v  1 e 0 0 ]
+[v i2_Motor_stopped Motor_stopped `(v  1 e 0 0 ]
+"164
+[v _TMR0Event TMR0Event `(v  1 e 0 0 ]
+"176
+[v _TMR1Event TMR1Event `(v  1 e 0 0 ]
+"179
+[v _Emul_PND Emul_PND `(v  1 e 0 0 ]
+"188
+[v _setADC setADC `(v  1 e 0 0 ]
+"210
+[v _GetColt GetColt `(v  1 e 0 0 ]
+"238
+[v _ADCread ADCread `(v  1 e 0 0 ]
+"290
+[v _CCP1Event CCP1Event `(v  1 e 0 0 ]
+"295
+[v _CCP2Event CCP2Event `(v  1 e 0 0 ]
+"301
+[v _CCP3Event CCP3Event `(v  1 e 0 0 ]
+"308
+[v _SPARKEvent SPARKEvent `(v  1 e 0 0 ]
+"318
+[v _Spark2 Spark2 `(v  1 e 0 0 ]
+[v i2_Spark2 Spark2 `(v  1 e 0 0 ]
+"322
+[v _Sync Sync `(v  1 e 0 0 ]
+"330
+[v _Get_Lag Get_Lag `(v  1 e 0 0 ]
+"348
+[v _delay delay `(v  1 e 0 0 ]
+"352
+[v _Set_ADC_MAP Set_ADC_MAP `(v  1 e 0 0 ]
+"359
+[v _Set_TPS_MAP Set_TPS_MAP `(v  1 e 0 0 ]
+"366
+[v _main main `(v  1 e 0 0 ]
+"426
+[v _high_isr high_isr `IIH(v  1 e 0 0 ]
+"441
+[v _low_isr low_isr `IIL(v  1 e 0 0 ]
+"46 D:\DOC\Project\WEGA\WEGA2\pnd_emul.c
+[v _Emul_PND_T Emul_PND_T `(uc  1 e 1 0 ]
+"47 C:\Program Files (x86)\Microchip\xc8\v1.33\include\pic18f46k22.h
+[v _ANSELA ANSELA `VEuc  1 e 1 @3896 ]
+"91
+[v _ANSELB ANSELB `VEuc  1 e 1 @3897 ]
+"140
+[v _ANSELC ANSELC `VEuc  1 e 1 @3898 ]
+"190
+[v _ANSELD ANSELD `VEuc  1 e 1 @3899 ]
+"251
+[v _ANSELE ANSELE `VEuc  1 e 1 @3900 ]
+"1319
+[v _CCPTMRS1 CCPTMRS1 `VEuc  1 e 1 @3912 ]
+"1370
+[v _CCPTMRS0 CCPTMRS0 `VEuc  1 e 1 @3913 ]
+"1443
+[v _T6CON T6CON `VEuc  1 e 1 @3914 ]
+[s S1841 . 1 `uc 1 T2CKPS 1 0 :2:0 
+`uc 1 TMR2ON 1 0 :1:2 
+`uc 1 T2OUTPS 1 0 :4:3 
+]
+"1464
+[s S1845 . 1 `uc 1 T2CKPS0 1 0 :1:0 
+`uc 1 T2CKPS1 1 0 :1:1 
+`uc 1 . 1 0 :1:2 
+`uc 1 T2OUTPS0 1 0 :1:3 
+`uc 1 T2OUTPS1 1 0 :1:4 
+`uc 1 T2OUTPS2 1 0 :1:5 
+`uc 1 T2OUTPS3 1 0 :1:6 
+]
+[u S1853 . 1 `S1841 1 . 1 0 `S1845 1 . 1 0 ]
+[v _T6CONbits T6CONbits `VES1853  1 e 1 @3914 ]
+"1513
+[v _PR6 PR6 `VEuc  1 e 1 @3915 ]
+"1532
+[v _TMR6 TMR6 `VEuc  1 e 1 @3916 ]
+"1820
+[v _T4CONbits T4CONbits `VES1853  1 e 1 @3921 ]
+"1869
+[v _PR4 PR4 `VEuc  1 e 1 @3922 ]
+"1907
+[v _CCP5CON CCP5CON `VEuc  1 e 1 @3924 ]
+"1976
+[v _CCPR5L CCPR5L `VEuc  1 e 1 @3925 ]
+"2518
+[v _CCP3CON CCP3CON `VEuc  1 e 1 @3933 ]
+"2605
+[v _CCPR3L CCPR3L `VEuc  1 e 1 @3934 ]
+"2624
+[v _CCPR3H CCPR3H `VEuc  1 e 1 @3935 ]
+"2686
+[v _WPUB WPUB `VEuc  1 e 1 @3937 ]
+"3270
+[v _CCP2CON CCP2CON `VEuc  1 e 1 @3942 ]
+"3357
+[v _CCPR2L CCPR2L `VEuc  1 e 1 @3943 ]
+"3376
+[v _CCPR2H CCPR2H `VEuc  1 e 1 @3944 ]
+[s S1763 . 1 `uc 1 CCP3IF 1 0 :1:0 
+`uc 1 CCP4IF 1 0 :1:1 
+`uc 1 CCP5IF 1 0 :1:2 
+]
+"6169
+[u S1767 . 1 `S1763 1 . 1 0 ]
+[v _PIE4bits PIE4bits `VES1767  1 e 1 @3962 ]
+"6200
+[v _PIR4bits PIR4bits `VES1767  1 e 1 @3963 ]
+"6270
+[v _PIE5bits PIE5bits `VES1767  1 e 1 @3965 ]
+"6301
+[v _PIR5bits PIR5bits `VES1767  1 e 1 @3966 ]
+"7774
+[v _LATA LATA `VEuc  1 e 1 @3977 ]
+"7906
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+"8038
+[v _LATC LATC `VEuc  1 e 1 @3979 ]
+"8170
+[v _LATD LATD `VEuc  1 e 1 @3980 ]
+"8302
+[v _LATE LATE `VEuc  1 e 1 @3981 ]
+"8404
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+[s S1493 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 TRISC3 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"8436
+[s S1502 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 RC3 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+[u S1511 . 1 `S1493 1 . 1 0 `S1502 1 . 1 0 ]
+[v _TRISAbits TRISAbits `VES1511  1 e 1 @3986 ]
+"8625
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"8657
+[v _TRISBbits TRISBbits `VES1511  1 e 1 @3987 ]
+"8846
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"8878
+[v _TRISCbits TRISCbits `VES1511  1 e 1 @3988 ]
+"9067
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"9288
+[v _TRISE TRISE `VEuc  1 e 1 @3990 ]
+[s S1735 . 1 `uc 1 TRISE0 1 0 :1:0 
+`uc 1 TRISE1 1 0 :1:1 
+`uc 1 TRISE2 1 0 :1:2 
+`uc 1 . 1 0 :4:3 
+`uc 1 WPUE3 1 0 :1:7 
+]
+"9312
+[s S1741 . 1 `uc 1 RE0 1 0 :1:0 
+`uc 1 RE1 1 0 :1:1 
+`uc 1 RE2 1 0 :1:2 
+]
+[u S1745 . 1 `S1735 1 . 1 0 `S1741 1 . 1 0 ]
+[v _TRISEbits TRISEbits `VES1745  1 e 1 @3990 ]
+[s S130 . 1 `uc 1 TMR1IF 1 0 :1:0 
+`uc 1 TMR2IF 1 0 :1:1 
+`uc 1 CCP1IF 1 0 :1:2 
+`uc 1 SSP1IF 1 0 :1:3 
+`uc 1 TX1IF 1 0 :1:4 
+`uc 1 RC1IF 1 0 :1:5 
+`uc 1 ADIF 1 0 :1:6 
+]
+"9773
+[s S138 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SSPIF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+]
+[u S143 . 1 `S130 1 . 1 0 `S138 1 . 1 0 ]
+[v _PIE1bits PIE1bits `VES143  1 e 1 @3997 ]
+"9849
+[v _PIR1bits PIR1bits `VES143  1 e 1 @3998 ]
+[s S1610 . 1 `uc 1 CCP2IF 1 0 :1:0 
+`uc 1 TMR3IF 1 0 :1:1 
+`uc 1 HLVDIF 1 0 :1:2 
+`uc 1 BCL1IF 1 0 :1:3 
+`uc 1 EEIF 1 0 :1:4 
+`uc 1 C2IF 1 0 :1:5 
+`uc 1 C1IF 1 0 :1:6 
+`uc 1 OSCFIF 1 0 :1:7 
+]
+"10005
+[s S1619 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 LVDIF 1 0 :1:2 
+`uc 1 BCLIF 1 0 :1:3 
+]
+[s S1623 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 CMIF 1 0 :1:6 
+]
+[u S1626 . 1 `S1610 1 . 1 0 `S1619 1 . 1 0 `S1623 1 . 1 0 ]
+[v _PIE2bits PIE2bits `VES1626  1 e 1 @4000 ]
+"10090
+[v _PIR2bits PIR2bits `VES1626  1 e 1 @4001 ]
+"10720
+[v _RCSTA1 RCSTA1 `VEuc  1 e 1 @4011 ]
+[s S367 . 1 `uc 1 RX9D 1 0 :1:0 
+`uc 1 OERR 1 0 :1:1 
+`uc 1 FERR 1 0 :1:2 
+`uc 1 ADDEN 1 0 :1:3 
+`uc 1 CREN 1 0 :1:4 
+`uc 1 SREN 1 0 :1:5 
+`uc 1 RX9 1 0 :1:6 
+`uc 1 SPEN 1 0 :1:7 
+]
+"10924
+[s S376 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 ADEN 1 0 :1:3 
+]
+[s S379 . 1 `uc 1 RX9D1 1 0 :1:0 
+`uc 1 OERR1 1 0 :1:1 
+`uc 1 FERR1 1 0 :1:2 
+`uc 1 ADDEN1 1 0 :1:3 
+`uc 1 CREN1 1 0 :1:4 
+`uc 1 SREN1 1 0 :1:5 
+`uc 1 RX91 1 0 :1:6 
+`uc 1 SPEN1 1 0 :1:7 
+]
+[s S388 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 RC8_9 1 0 :1:6 
+]
+[s S391 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 RC9 1 0 :1:6 
+]
+[s S394 . 1 `uc 1 RCD8 1 0 :1:0 
+]
+[s S396 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 SRENA 1 0 :1:5 
+]
+[u S399 . 1 `S367 1 . 1 0 `S376 1 . 1 0 `S379 1 . 1 0 `S388 1 . 1 0 `S391 1 . 1 0 `S394 1 . 1 0 `S396 1 . 1 0 ]
+[v _RCSTAbits RCSTAbits `VES399  1 e 1 @4011 ]
+"11181
+[v _TXSTA1 TXSTA1 `VEuc  1 e 1 @4012 ]
+[s S315 . 1 `uc 1 TX9D 1 0 :1:0 
+`uc 1 TRMT 1 0 :1:1 
+`uc 1 BRGH 1 0 :1:2 
+`uc 1 SENDB 1 0 :1:3 
+`uc 1 SYNC 1 0 :1:4 
+`uc 1 TXEN 1 0 :1:5 
+`uc 1 TX9 1 0 :1:6 
+`uc 1 CSRC 1 0 :1:7 
+]
+"11346
+[s S324 . 1 `uc 1 TX9D1 1 0 :1:0 
+`uc 1 TRMT1 1 0 :1:1 
+`uc 1 BRGH1 1 0 :1:2 
+`uc 1 SENDB1 1 0 :1:3 
+`uc 1 SYNC1 1 0 :1:4 
+`uc 1 TXEN1 1 0 :1:5 
+`uc 1 TX91 1 0 :1:6 
+`uc 1 CSRC1 1 0 :1:7 
+]
+[s S333 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 TX8_9 1 0 :1:6 
+]
+[s S336 . 1 `uc 1 TXD8 1 0 :1:0 
+]
+[u S338 . 1 `S315 1 . 1 0 `S324 1 . 1 0 `S333 1 . 1 0 `S336 1 . 1 0 ]
+[v _TXSTAbits TXSTAbits `VES338  1 e 1 @4012 ]
+"11566
+[v _TXREG TXREG `VEuc  1 e 1 @4013 ]
+"11643
+[v _RCREG RCREG `VEuc  1 e 1 @4014 ]
+"11715
+[v _SPBRG1 SPBRG1 `VEuc  1 e 1 @4015 ]
+"11792
+[v _SPBRGH1 SPBRGH1 `VEuc  1 e 1 @4016 ]
+"11869
+[v _T3CON T3CON `VEuc  1 e 1 @4017 ]
+"11984
+[v _TMR3L TMR3L `VEuc  1 e 1 @4018 ]
+"12003
+[v _TMR3H TMR3H `VEuc  1 e 1 @4019 ]
+"12022
+[v _T3GCON T3GCON `VEuc  1 e 1 @4020 ]
+"12750
+[v _BAUDCON1 BAUDCON1 `VEuc  1 e 1 @4024 ]
+"13712
+[v _T2CON T2CON `VEuc  1 e 1 @4026 ]
+"13733
+[v _T2CONbits T2CONbits `VES1853  1 e 1 @4026 ]
+"13782
+[v _PR2 PR2 `VEuc  1 e 1 @4027 ]
+"13820
+[v _CCP1CON CCP1CON `VEuc  1 e 1 @4029 ]
+"13907
+[v _CCPR1L CCPR1L `VEuc  1 e 1 @4030 ]
+"13926
+[v _CCPR1H CCPR1H `VEuc  1 e 1 @4031 ]
+"13945
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @4032 ]
+"14015
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"14082
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+[s S1182 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO_NOT_DONE 1 0 :1:1 
+]
+"14127
+[s S1185 . 1 `uc 1 ADON 1 0 :1:0 
+`uc 1 GO_nDONE 1 0 :1:1 
+`uc 1 CHS 1 0 :5:2 
+]
+[s S1189 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO 1 0 :1:1 
+`uc 1 CHS0 1 0 :1:2 
+`uc 1 CHS1 1 0 :1:3 
+`uc 1 CHS2 1 0 :1:4 
+`uc 1 CHS3 1 0 :1:5 
+`uc 1 CHS4 1 0 :1:6 
+]
+[s S1197 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 DONE 1 0 :1:1 
+]
+[s S1200 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 NOT_DONE 1 0 :1:1 
+]
+[s S1203 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 nDONE 1 0 :1:1 
+]
+[s S1206 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO_DONE 1 0 :1:1 
+]
+[s S1209 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GODONE 1 0 :1:1 
+]
+[u S1212 . 1 `S1182 1 . 1 0 `S1185 1 . 1 0 `S1189 1 . 1 0 `S1197 1 . 1 0 `S1200 1 . 1 0 `S1203 1 . 1 0 `S1206 1 . 1 0 `S1209 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES1212  1 e 1 @4034 ]
+"14212
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"14231
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"16315
+[v _T1GCON T1GCON `VEuc  1 e 1 @4044 ]
+"16409
+[v _T1CON T1CON `VEuc  1 e 1 @4045 ]
+"16521
+[v _TMR1 TMR1 `VEus  1 e 2 @4046 ]
+"16527
+[v _TMR1L TMR1L `VEuc  1 e 1 @4046 ]
+"16546
+[v _TMR1H TMR1H `VEuc  1 e 1 @4047 ]
+"16724
+[v _OSCCON2 OSCCON2 `VEuc  1 e 1 @4050 ]
+"16780
+[v _OSCCON OSCCON `VEuc  1 e 1 @4051 ]
+"16862
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+"16937
+[v _TMR0L TMR0L `VEuc  1 e 1 @4054 ]
+"16956
+[v _TMR0H TMR0H `VEuc  1 e 1 @4055 ]
+[s S1310 . 1 `uc 1 RBIF 1 0 :1:0 
+`uc 1 INT0IF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 RBIE 1 0 :1:3 
+`uc 1 INT0IE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE_GIEL 1 0 :1:6 
+`uc 1 GIE_GIEH 1 0 :1:7 
+]
+"17681
+[s S1319 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 INT0F 1 0 :1:1 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 INT0E 1 0 :1:4 
+`uc 1 T0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+[s S1328 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 GIEL 1 0 :1:6 
+`uc 1 GIEH 1 0 :1:7 
+]
+[u S1345 . 1 `S1310 1 . 1 0 `S1319 1 . 1 0 `S1328 1 . 1 0 `S1319 1 . 1 0 `S1328 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES1345  1 e 1 @4082 ]
+"18164
+[v _ADIE ADIE `VEb  1 e 0 @31982 ]
+"18166
+[v _ADIF ADIF `VEb  1 e 0 @31990 ]
+"18168
+[v _ADIP ADIP `VEb  1 e 0 @31998 ]
+"18340
+[v _BOR BOR `VEb  1 e 0 @32384 ]
+"18374
+[v _C1IF C1IF `VEb  1 e 0 @32014 ]
+"18404
+[v _C2IE C2IE `VEb  1 e 0 @32005 ]
+"18406
+[v _C2IF C2IF `VEb  1 e 0 @32013 ]
+"18410
+[v _C2IP C2IP `VEb  1 e 0 @32021 ]
+"18474
+[v _CCP1IE CCP1IE `VEb  1 e 0 @31978 ]
+"18476
+[v _CCP1IF CCP1IF `VEb  1 e 0 @31986 ]
+"18478
+[v _CCP1IP CCP1IP `VEb  1 e 0 @31994 ]
+"18500
+[v _CCP2IE CCP2IE `VEb  1 e 0 @32000 ]
+"18502
+[v _CCP2IF CCP2IF `VEb  1 e 0 @32008 ]
+"18504
+[v _CCP2IP CCP2IP `VEb  1 e 0 @32016 ]
+"18526
+[v _CCP3IE CCP3IE `VEb  1 e 0 @31696 ]
+"18528
+[v _CCP3IF CCP3IF `VEb  1 e 0 @31704 ]
+"18530
+[v _CCP3IP CCP3IP `VEb  1 e 0 @31712 ]
+"18846
+[v _GIEH GIEH `VEb  1 e 0 @32663 ]
+"18848
+[v _GIEL GIEL `VEb  1 e 0 @32662 ]
+"18852
+[v _GO GO `VEb  1 e 0 @32273 ]
+"18908
+[v _INT0IE INT0IE `VEb  1 e 0 @32660 ]
+"18910
+[v _INT0IF INT0IF `VEb  1 e 0 @32657 ]
+"18918
+[v _INT1IE INT1IE `VEb  1 e 0 @32643 ]
+"18920
+[v _INT1IF INT1IF `VEb  1 e 0 @32640 ]
+"18922
+[v _INT1IP INT1IP `VEb  1 e 0 @32646 ]
+"18934
+[v _INT2IF INT2IF `VEb  1 e 0 @32641 ]
+"18936
+[v _INT2IP INT2IP `VEb  1 e 0 @32647 ]
+"18940
+[v _INTEDG0 INTEDG0 `VEb  1 e 0 @32654 ]
+"18942
+[v _INTEDG1 INTEDG1 `VEb  1 e 0 @32653 ]
+"18944
+[v _INTEDG2 INTEDG2 `VEb  1 e 0 @32652 ]
+"18958
+[v _IPEN IPEN `VEb  1 e 0 @32391 ]
+"19086
+[v _LB3 LB3 `VEb  1 e 0 @31827 ]
+"19088
+[v _LB4 LB4 `VEb  1 e 0 @31828 ]
+"19096
+[v _LC0 LC0 `VEb  1 e 0 @31832 ]
+"19098
+[v _LC1 LC1 `VEb  1 e 0 @31833 ]
+"19100
+[v _LC2 LC2 `VEb  1 e 0 @31834 ]
+"19102
+[v _LC3 LC3 `VEb  1 e 0 @31835 ]
+"19104
+[v _LC4 LC4 `VEb  1 e 0 @31836 ]
+"19106
+[v _LC5 LC5 `VEb  1 e 0 @31837 ]
+"19112
+[v _LD0 LD0 `VEb  1 e 0 @31840 ]
+"19114
+[v _LD1 LD1 `VEb  1 e 0 @31841 ]
+"19116
+[v _LD2 LD2 `VEb  1 e 0 @31842 ]
+"19118
+[v _LD3 LD3 `VEb  1 e 0 @31843 ]
+"19120
+[v _LD4 LD4 `VEb  1 e 0 @31844 ]
+"19122
+[v _LD5 LD5 `VEb  1 e 0 @31845 ]
+"19496
+[v _RC1IE RC1IE `VEb  1 e 0 @31981 ]
+"19500
+[v _RC1IP RC1IP `VEb  1 e 0 @31997 ]
+"19530
+[v _RCIF RCIF `VEb  1 e 0 @31989 ]
+"19902
+[v _T0IF T0IF `VEb  1 e 0 @32658 ]
+"20056
+[v _TMR0IE TMR0IE `VEb  1 e 0 @32661 ]
+"20058
+[v _TMR0IF TMR0IF `VEb  1 e 0 @32658 ]
+"20060
+[v _TMR0IP TMR0IP `VEb  1 e 0 @32650 ]
+"20062
+[v _TMR0ON TMR0ON `VEb  1 e 0 @32431 ]
+"20076
+[v _TMR1IE TMR1IE `VEb  1 e 0 @31976 ]
+"20078
+[v _TMR1IF TMR1IF `VEb  1 e 0 @31984 ]
+"20080
+[v _TMR1IP TMR1IP `VEb  1 e 0 @31992 ]
+"20084
+[v _TMR1ON TMR1ON `VEb  1 e 0 @32360 ]
+"20086
+[v _TMR2IE TMR2IE `VEb  1 e 0 @31977 ]
+"20108
+[v _TMR3IE TMR3IE `VEb  1 e 0 @32001 ]
+"20160
+[v _TO TO `VEb  1 e 0 @32387 ]
+"20254
+[v _TX1IE TX1IE `VEb  1 e 0 @31980 ]
+"20258
+[v _TX1IP TX1IP `VEb  1 e 0 @31996 ]
+"20384
+[v _nRBPU nRBPU `VEb  1 e 0 @32655 ]
+"13 D:\DOC\Project\WEGA\WEGA2\Config.h
+[v _SPD_CONST SPD_CONST `Cum  1 e 3 0 ]
+"49 D:\DOC\Project\WEGA\WEGA2\Config_AAD
+[v _LAG LAG `C[5]ui  1 e 10 0 ]
+"50
+[v _LAG_LPG LAG_LPG `C[5]ui  1 e 10 0 ]
+"3 D:\DOC\Project\WEGA\WEGA2\Lambda.h
+[v _Lambda Lambda `C[256]c  1 e 256 0 ]
+"10 D:\DOC\Project\WEGA\WEGA2\linInterp.c
+[v _X X `C[15]i  1 e 30 0 ]
+"11
+[v _Y Y `C[3]i  1 e 6 0 ]
+[s S21 . 1 `uc 1 Mtr_On 1 0 :1:0 
+`uc 1 Warm 1 0 :1:1 
+`uc 1 IAC 1 0 :1:2 
+`uc 1 Accel 1 0 :1:3 
+`uc 1 D_Accel 1 0 :1:4 
+`uc 1 Econ 1 0 :1:5 
+`uc 1 EMR 1 0 :1:6 
+`uc 1 AFSTEN 1 0 :1:7 
+]
+"10 D:\DOC\Project\WEGA\WEGA2\main.c
+[u S30 . 1 `uc 1 STAT 1 0 `S21 1 . 1 0 ]
+[s S33 . 1 `uc 1 WDT 1 0 :1:0 
+`uc 1 BOR 1 0 :1:1 
+`uc 1 overINJ 1 0 :1:2 
+`uc 1 COMP 1 0 :1:3 
+`uc 1 CLT_ERR 1 0 :1:4 
+`uc 1 MAP_ERR 1 0 :1:5 
+`uc 1 Lambda_ERR 1 0 :1:6 
+`uc 1 SYNC 1 0 :1:7 
+]
+[u S42 . 1 `uc 1 ERR 1 0 `S33 1 . 1 0 ]
+[s S45 . 1 `uc 1 LPG 1 0 :1:0 
+`uc 1 ParParINJ 1 0 :1:1 
+`uc 1 SeqINJ 1 0 :1:2 
+`uc 1 Sync_On 1 0 :1:3 
+`uc 1 Res11 1 0 :1:4 
+`uc 1 Res22 1 0 :1:5 
+`uc 1 Res33 1 0 :1:6 
+`uc 1 CutOff 1 0 :1:7 
+]
+[u S54 . 1 `uc 1 ExtSTAT 1 0 `S45 1 . 1 0 ]
+[s S57 . 1 `uc 1 MAPtype 1 0 :1:0 
+`uc 1 CYL 1 0 :3:1 
+`uc 1 CLTtype 1 0 :1:4 
+`uc 1 ereserv 1 0 :3:5 
+]
+[u S62 . 1 `uc 1 ExtConfig 1 0 `S57 1 . 1 0 ]
+[s S65 . 38 `uc 1 BYTEAF 1 0 `uc 1 Byte_Counter 1 1 `uc 1 Paket_version 1 2 `uc 1 Paket_size 1 3 `S30 1 . 1 4 `S42 1 . 1 5 `uc 1 STEPCNT 1 6 `uc 1 ColtF 1 7 `uc 1 COLT 1 8 `uc 1 APressure 1 9 `uc 1 TPS 1 10 `uc 1 O2S 1 11 `uc 1 POWER 1 12 `uc 1 RPM 1 13 `ui 1 TIME_INJ 2 14 `ui 1 INJ_LAG 2 16 `ui 1 RqF 2 18 `ui 1 RCO 2 20 `ui 1 MotoClock 2 22 `uc 1 WARM_80 1 24 `uc 1 WARM_20 1 25 `S54 1 . 1 26 `uc 1 WARM_40 1 27 `uc 1 WARM_50 1 28 `uc 1 Accel_ENR 1 29 `uc 1 WARM_12 1 30 `uc 1 reserv2 1 31 `S62 1 . 1 32 `uc 1 UOZ 1 33 `uc 1 IAT 1 34 `uc 1 SPD_Enr 1 35 `uc 1 Warm_Enr 1 36 `uc 1 CHK_SUM_TX 1 37 ]
+[v _ECU ECU `VES65  1 e 38 0 ]
+"11
+[v _VE_table VE_table `VE[16]uc  1 e 16 0 ]
+"12
+[v _ADC ADC `VEui  1 e 2 0 ]
+[v _TMRC TMRC `VEui  1 e 2 0 ]
+[v _PUMPCounter PUMPCounter `VEui  1 e 2 0 ]
+"13
+[v _LoadCounter LoadCounter `VEui  1 e 2 0 ]
+"14
+[v _MAP_array MAP_array `[6]ui  1 e 12 0 ]
+[v _PWR_array PWR_array `[6]ui  1 e 12 0 ]
+[v _CLT_array CLT_array `[6]ui  1 e 12 0 ]
+[v _IAT_array IAT_array `[6]ui  1 e 12 0 ]
+[v _EXT_array EXT_array `[6]ui  1 e 12 0 ]
+[v _AirPressure AirPressure `ui  1 e 2 0 ]
+[v _LPGPressure LPGPressure `ui  1 e 2 0 ]
+[v _Load_array Load_array `[6]ui  1 e 12 0 ]
+"15
+[v _Cylinder Cylinder `uc  1 e 1 0 ]
+"16
+[v _p p `*.30uc  1 e 1 0 ]
+"18
+[v _Flag_UART_recieved Flag_UART_recieved `VEb  1 e 0 0 ]
+"19
+[v _Flag_Send_data Flag_Send_data `VEb  1 e 0 0 ]
+"20
+[v _Flag_Speed_equal Flag_Speed_equal `VEb  1 e 0 0 ]
+"21
+[v _Flag_Corr_equal Flag_Corr_equal `VEb  1 e 0 0 ]
+"22
+[v _Flag_IAC Flag_IAC `VEb  1 e 0 0 ]
+"23
+[v _Flag_set_IAC Flag_set_IAC `VEb  1 e 0 0 ]
+"24
+[v _Flag_setADC_chenal Flag_setADC_chenal `VEb  1 e 0 0 ]
+"25
+[v _Flag_Sec_Clock Flag_Sec_Clock `VEb  1 e 0 0 ]
+"26
+[v _Flag_FiveSeconds Flag_FiveSeconds `VEb  1 e 0 0 ]
+"27
+[v _Flag_FuelEq Flag_FuelEq `VEb  1 e 0 0 ]
+"28
+[v _Flag_Init_Pos Flag_Init_Pos `VEb  1 e 0 0 ]
+"11 D:\DOC\Project\WEGA\WEGA2\pnd_emul.c
+[v _RPM2Tabl RPM2Tabl `C[256]uc  1 e 256 0 ]
+"44
+[v _Ign0 Ign0 `C[512]uc  1 e 512 0 ]
+"366 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _main main `(v  1 e 0 0 ]
+{
+"391
+[v main@MSpeed MSpeed `ui  1 a 2 24 ]
+[v main@TCycle TCycle `ui  1 a 2 22 ]
+"419
+[v main@Minutes Minutes `uc  1 s 1 Minutes ]
+[v main@Seconds Seconds `uc  1 s 1 Seconds ]
+"424
+} 0
+"188
+[v _setADC setADC `(v  1 e 0 0 ]
+{
+"190
+[v setADC@ADCChan ADCChan `uc  1 s 1 ADCChan ]
+"209
+} 0
+"49 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcsetch.c
+[v _SetChanADC SetChanADC `(v  1 e 0 0 ]
+{
+[v SetChanADC@channel channel `uc  1 a 1 wreg ]
+[v SetChanADC@channel channel `uc  1 a 1 wreg ]
+"52
+[v SetChanADC@channel channel `uc  1 a 1 20 ]
+"53
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+{
+"11
+[v ___ltdiv@quotient quotient `um  1 a 3 25 ]
+"12
+[v ___ltdiv@counter counter `uc  1 a 1 28 ]
+"8
+[v ___ltdiv@dividend dividend `um  1 p 3 19 ]
+[v ___ltdiv@divisor divisor `um  1 p 3 22 ]
+"31
+} 0
+"215 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _VE VE `(uc  1 e 1 0 ]
+{
+[v VE@a a `uc  1 a 1 wreg ]
+"217
+[v VE@hidt hidt `uc  1 a 1 32 ]
+[v VE@lowdt lowdt `uc  1 a 1 31 ]
+[v VE@Span Span `uc  1 a 1 30 ]
+[v VE@Index Index `uc  1 a 1 29 ]
+"215
+[v VE@a a `uc  1 a 1 wreg ]
+[v VE@Table Table `*.39uc  1 p 2 19 ]
+"218
+[v VE@a a `uc  1 a 1 28 ]
+"224
+} 0
+"44 D:\DOC\Project\WEGA\WEGA2\IAC.c
+[v _STP_Set STP_Set `(v  1 e 0 0 ]
+{
+[v STP_Set@p p `uc  1 a 1 wreg ]
+[v STP_Set@p p `uc  1 a 1 wreg ]
+"46
+[v STP_Set@p p `uc  1 a 1 20 ]
+"48
+} 0
+"31 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _INIT INIT `(v  1 e 0 0 ]
+{
+"151
+} 0
+"33 D:\DOC\Project\WEGA\WEGA2\IAC.c
+[v _STP_Init STP_Init `(v  1 e 0 0 ]
+{
+"35
+[v STP_Init@a a `uc  1 a 1 22 ]
+"43
+} 0
+"348 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _delay delay `(v  1 e 0 0 ]
+{
+[v delay@ms ms `ui  1 p 2 19 ]
+"351
+} 0
+"23 D:\DOC\Project\WEGA\WEGA2\IAC.c
+[v _STP_Close STP_Close `(v  1 e 0 0 ]
+{
+"31
+} 0
+"17 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\Timers\t6open.c
+[v _OpenTimer6 OpenTimer6 `(v  1 e 0 0 ]
+{
+[v OpenTimer6@config config `uc  1 a 1 wreg ]
+[v OpenTimer6@config config `uc  1 a 1 wreg ]
+"19
+[v OpenTimer6@config config `uc  1 a 1 19 ]
+"31
+} 0
+"88 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\PWM\pw5open.c
+[v _OpenPWM5 OpenPWM5 `(v  1 e 0 0 ]
+{
+[v OpenPWM5@period period `uc  1 a 1 wreg ]
+[v OpenPWM5@period period `uc  1 a 1 wreg ]
+[v OpenPWM5@timer_source timer_source `uc  1 p 1 19 ]
+"91
+[v OpenPWM5@period period `uc  1 a 1 21 ]
+"118
+} 0
+"305 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcopen.c
+[v _OpenADC OpenADC `(v  1 e 0 0 ]
+{
+[v OpenADC@config config `uc  1 a 1 wreg ]
+[v OpenADC@config config `uc  1 a 1 wreg ]
+"306
+[v OpenADC@config2 config2 `uc  1 p 1 19 ]
+"307
+[v OpenADC@config3 config3 `uc  1 p 1 20 ]
+"309
+[v OpenADC@config config `uc  1 a 1 23 ]
+"328
+} 0
+"22 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcconv.c
+[v _ConvertADC ConvertADC `(v  1 e 0 0 ]
+{
+"25
+} 0
+"49 D:\DOC\Project\WEGA\WEGA2\IAC.c
+[v _IAC_Stab IAC_Stab `(v  1 e 0 0 ]
+{
+"56
+[v IAC_Stab@Step_Init_Pos Step_Init_Pos `uc  1 a 1 21 ]
+"55
+[v IAC_Stab@CLTR CLTR `uc  1 a 1 20 ]
+"89
+} 0
+"13
+[v _STP_Open STP_Open `(v  1 e 0 0 ]
+{
+"21
+} 0
+"330 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _Get_Lag Get_Lag `(v  1 e 0 0 ]
+{
+"347
+} 0
+"141 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _ReadTable ReadTable `(ui  1 e 2 0 ]
+{
+"143
+[v ReadTable@Index Index `uc  1 a 1 19 ]
+[v ReadTable@Span Span `uc  1 a 1 18 ]
+"141
+[v ReadTable@a a `ui  1 p 2 4 ]
+[v ReadTable@Massive Massive `*.32Cui  1 p 2 6 ]
+"150
+} 0
+"182
+[v _IntpResL IntpResL `(i  1 e 2 0 ]
+{
+"184
+[v IntpResL@prom prom `i  1 a 2 35 ]
+"182
+[v IntpResL@Low_d Low_d `i  1 p 2 30 ]
+[v IntpResL@Hi_d Hi_d `i  1 p 2 32 ]
+[v IntpResL@C C `uc  1 p 1 34 ]
+"186
+} 0
+"9
+[v _Fuel_Calculate Fuel_Calculate `(v  1 e 0 0 ]
+{
+"36
+[v Fuel_Calculate@GazPressure GazPressure `i  1 a 2 1 ]
+"11
+[v Fuel_Calculate@Injection Injection `um  1 a 3 3 ]
+"98
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\atdiv.c
+[v ___atdiv __atdiv `(m  1 e 3 0 ]
+{
+"11
+[v ___atdiv@quotient quotient `m  1 a 3 27 ]
+"12
+[v ___atdiv@sign sign `uc  1 a 1 26 ]
+[v ___atdiv@counter counter `uc  1 a 1 25 ]
+"8
+[v ___atdiv@dividend dividend `m  1 p 3 19 ]
+[v ___atdiv@divisor divisor `m  1 p 3 22 ]
+"42
+} 0
+"179 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _Emul_PND Emul_PND `(v  1 e 0 0 ]
+{
+"181
+[v Emul_PND@Vout Vout `ui  1 a 2 34 ]
+"187
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\PWM\pw5setdc.c
+[v _SetDCPWM5 SetDCPWM5 `(v  1 e 0 0 ]
+{
+[u S1948 PWMDC 2 `ui 1 lpwm 2 0 `[2]uc 1 bpwm 2 0 ]
+"17
+[v SetDCPWM5@DCycle DCycle `S1948  1 a 2 23 ]
+"15
+[v SetDCPWM5@dutycycle dutycycle `ui  1 p 2 19 ]
+"27
+} 0
+"46 D:\DOC\Project\WEGA\WEGA2\pnd_emul.c
+[v _Emul_PND_T Emul_PND_T `(uc  1 e 1 0 ]
+{
+[v Emul_PND_T@RPM RPM `uc  1 a 1 wreg ]
+"48
+[v Emul_PND_T@pres pres `c  1 a 1 13 ]
+"64
+[v Emul_PND_T@hidt hidt `uc  1 a 1 12 ]
+"63
+[v Emul_PND_T@lowdt lowdt `uc  1 a 1 11 ]
+"48
+[v Emul_PND_T@column column `uc  1 a 1 10 ]
+[v Emul_PND_T@span span `uc  1 a 1 9 ]
+[v Emul_PND_T@out out `uc  1 a 1 8 ]
+"46
+[v Emul_PND_T@RPM RPM `uc  1 a 1 wreg ]
+[v Emul_PND_T@MAP MAP `i  1 p 2 30 ]
+"49
+[v Emul_PND_T@RPM RPM `uc  1 a 1 7 ]
+"70
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul24.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+{
+"17
+[v ___tmul@product product `um  1 a 3 27 ]
+"15
+[v ___tmul@multiplier multiplier `um  1 p 3 19 ]
+[v ___tmul@multiplicand multiplicand `um  1 p 3 22 ]
+"99
+} 0
+"441 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _low_isr low_isr `IIL(v  1 e 0 0 ]
+{
+"453
+} 0
+"164
+[v _TMR0Event TMR0Event `(v  1 e 0 0 ]
+{
+"166
+[v TMR0Event@TXdelay TXdelay `i  1 s 2 TXdelay ]
+[v TMR0Event@mckc mckc `i  1 s 2 mckc ]
+[v TMR0Event@ADCdelay ADCdelay `i  1 s 2 ADCdelay ]
+[v TMR0Event@STPdelay STPdelay `i  1 s 2 STPdelay ]
+[v TMR0Event@Cdelay Cdelay `i  1 s 2 Cdelay ]
+"174
+} 0
+"152
+[v _Motor_stopped Motor_stopped `(v  1 e 0 0 ]
+{
+"162
+} 0
+"322
+[v _Sync Sync `(v  1 e 0 0 ]
+{
+"328
+} 0
+"318
+[v _Spark2 Spark2 `(v  1 e 0 0 ]
+{
+"321
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"11
+[v ___lwdiv@quotient quotient `ui  1 a 2 4 ]
+"12
+[v ___lwdiv@counter counter `uc  1 a 1 6 ]
+"8
+[v ___lwdiv@dividend dividend `ui  1 p 2 0 ]
+[v ___lwdiv@divisor divisor `ui  1 p 2 2 ]
+"31
+} 0
+"54 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em3open.c
+[v _OpenECompare3 OpenECompare3 `(v  1 e 0 0 ]
+{
+[v OpenECompare3@config config `uc  1 a 1 wreg ]
+[v OpenECompare3@config config `uc  1 a 1 wreg ]
+[v OpenECompare3@period period `ui  1 p 2 7 ]
+"66
+[v OpenECompare3@config config `uc  1 a 1 12 ]
+"99
+} 0
+"359 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _Set_TPS_MAP Set_TPS_MAP `(v  1 e 0 0 ]
+{
+"365
+} 0
+"352
+[v _Set_ADC_MAP Set_ADC_MAP `(v  1 e 0 0 ]
+{
+"358
+} 0
+"49 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcsetch.c
+[v i1_SetChanADC SetChanADC `(v  1 e 0 0 ]
+{
+[v i1SetChanADC@channel channel `uc  1 a 1 wreg ]
+[v i1SetChanADC@channel channel `uc  1 a 1 wreg ]
+"52
+[v i1SetChanADC@channel channel `uc  1 a 1 1 ]
+"53
+} 0
+"22 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcconv.c
+[v i1_ConvertADC ConvertADC `(v  1 e 0 0 ]
+{
+"25
+} 0
+"238 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _ADCread ADCread `(v  1 e 0 0 ]
+{
+"282
+[v ADCread@EGRD_CURR EGRD_CURR `i  1 a 2 25 ]
+"242
+[v ADCread@ADCPressure ADCPressure `i  1 a 2 23 ]
+"288
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\Umul24.c
+[v i1___tmul __tmul `(um  1 e 3 0 ]
+{
+[v i1___tmul@product __tmul `um  1 a 3 8 ]
+[v i1___tmul@multiplier multiplier `um  1 p 3 0 ]
+[v i1___tmul@multiplicand multiplicand `um  1 p 3 3 ]
+"99
+} 0
+"210 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _GetColt GetColt `(v  1 e 0 0 ]
+{
+"214
+[v GetColt@CLT_DATA CLT_DATA `ui  1 a 2 15 ]
+"237
+} 0
+"188 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _SMA_filter SMA_filter `(i  1 e 2 0 ]
+{
+"195
+[v SMA_filter@j j `uc  1 a 1 8 ]
+"190
+[v SMA_filter@n n `uc  1 a 1 7 ]
+"188
+[v SMA_filter@a a `ui  1 p 2 2 ]
+[v SMA_filter@Massive Massive `*.30ui  1 p 1 4 ]
+"198
+} 0
+"24 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\ADC\adcread.c
+[v _ReadADC ReadADC `(i  1 e 2 0 ]
+{
+"27
+} 0
+"200 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _EX_filter EX_filter `(i  1 e 2 0 ]
+{
+"202
+[v EX_filter@n n `ui  1 a 2 9 ]
+"200
+[v EX_filter@a a `ui  1 p 2 2 ]
+[v EX_filter@Massive Massive `*.30ui  1 p 1 4 ]
+"213
+} 0
+"426 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _high_isr high_isr `IIH(v  1 e 0 0 ]
+{
+"438
+} 0
+"318
+[v i2_Spark2 Spark2 `(v  1 e 0 0 ]
+{
+"321
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\common\lwdiv.c
+[v i2___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+[v i2___lwdiv@quotient __lwdiv `ui  1 a 2 5 ]
+[v i2___lwdiv@counter __lwdiv `uc  1 a 1 4 ]
+[v i2___lwdiv@dividend dividend `ui  1 p 2 0 ]
+[v i2___lwdiv@divisor divisor `ui  1 p 2 2 ]
+"31
+} 0
+"54 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em3open.c
+[v i2_OpenECompare3 OpenECompare3 `(v  1 e 0 0 ]
+{
+[v i2OpenECompare3@config config `uc  1 a 1 wreg ]
+[v i2OpenECompare3@config config `uc  1 a 1 wreg ]
+[v i2OpenECompare3@period period `ui  1 p 2 7 ]
+"66
+[v i2OpenECompare3@config config `uc  1 a 1 12 ]
+"99
+} 0
+"176 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _TMR1Event TMR1Event `(v  1 e 0 0 ]
+{
+"178
+} 0
+"152
+[v i2_Motor_stopped Motor_stopped `(v  1 e 0 0 ]
+{
+"162
+} 0
+"308
+[v _SPARKEvent SPARKEvent `(v  1 e 0 0 ]
+{
+"317
+} 0
+"70 D:\DOC\Project\WEGA\WEGA2\Injection.c
+[v _SetInjection SetInjection `(v  1 e 0 0 ]
+{
+"96
+} 0
+"301 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _CCP3Event CCP3Event `(v  1 e 0 0 ]
+{
+"305
+} 0
+"295
+[v _CCP2Event CCP2Event `(v  1 e 0 0 ]
+{
+"299
+} 0
+"113 D:\DOC\Project\WEGA\WEGA2\Injection.c
+[v _CompareGroup2 CompareGroup2 `(v  1 e 0 0 ]
+{
+"117
+[v CompareGroup2@Injection Injection `ui  1 a 2 12 ]
+"126
+} 0
+"71 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em2open.c
+[v _OpenECompare2 OpenECompare2 `(v  1 e 0 0 ]
+{
+[v OpenECompare2@config config `uc  1 a 1 wreg ]
+[v OpenECompare2@config config `uc  1 a 1 wreg ]
+[v OpenECompare2@period period `ui  1 p 2 4 ]
+"82
+[v OpenECompare2@config config `uc  1 a 1 9 ]
+"113
+} 0
+"8 D:\DOC\Project\WEGA\WEGA2\Injection.c
+[v _AllInjectionClose AllInjectionClose `(v  1 e 0 0 ]
+{
+"14
+} 0
+"290 D:\DOC\Project\WEGA\WEGA2\main.c
+[v _CCP1Event CCP1Event `(v  1 e 0 0 ]
+{
+"293
+} 0
+"97 D:\DOC\Project\WEGA\WEGA2\Injection.c
+[v _CompareGroup1 CompareGroup1 `(v  1 e 0 0 ]
+{
+"101
+[v CompareGroup1@Injection Injection `ui  1 a 2 12 ]
+"112
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\Timers\t3read.c
+[v _ReadTimer3 ReadTimer3 `(ui  1 e 2 0 ]
+{
+[u S1958 Timers 2 `ui 1 lt 2 0 `[2]uc 1 bt 2 0 ]
+"15
+[v ReadTimer3@timer timer `S1958  1 a 2 2 ]
+"21
+} 0
+"46 C:\Program Files (x86)\Microchip\xc8\v1.33\sources\pic18\plib\CMP\em1open.c
+[v _OpenECompare1 OpenECompare1 `(v  1 e 0 0 ]
+{
+[v OpenECompare1@config config `uc  1 a 1 wreg ]
+[v OpenECompare1@config config `uc  1 a 1 wreg ]
+[v OpenECompare1@period period `ui  1 p 2 4 ]
+"48
+[v OpenECompare1@config config `uc  1 a 1 9 ]
+"103
+} 0
+"106 D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c
+[v _CheckInj CheckInj `(v  1 e 0 0 ]
+{
+"140
+} 0
+"99
+[v _LGP_st LGP_st `(b  1 e 0 0 ]
+{
+"101
+[v LGP_st@LPGPres LPGPres `i  1 a 2 0 ]
+"103
+} 0

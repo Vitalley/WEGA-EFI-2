@@ -1,0 +1,1 @@
+ main.d  main.p1:  D:/DOC/Project/WEGA/WEGA2/main.c D:/DOC/Project/WEGA/WEGA2/IAC.h D:/DOC/Project/WEGA/WEGA2/injection.h D:/DOC/Project/WEGA/WEGA2/Config.h D:/DOC/Project/WEGA/WEGA2/Fuel_Calc.h D:/DOC/Project/WEGA/WEGA2/Lambda.h D:/DOC/Project/WEGA/WEGA2/pnd_emul.h D:/DOC/Project/WEGA/WEGA2/Main.h D:/DOC/Project/WEGA/WEGA2/Config_bits.h D:/DOC/Project/WEGA/WEGA2/Config_AAD

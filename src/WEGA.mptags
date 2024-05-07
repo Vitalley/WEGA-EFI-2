@@ -1,0 +1,602 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ACCEL::LD2	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	18;"	d	line:18
+ACCEL::LD2	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	18;"	d	line:18
+ACL_THR::5	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	42;"	d	line:42
+ACL_THR::5	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	41;"	d	line:41
+ADC	D:\DOC\Project\WEGA\WEGA2\main.c	12;"	v	line:12
+ADCChan	D:\DOC\Project\WEGA\WEGA2\main.c	190;"	l	line:190	file:
+ADCPressure	D:\DOC\Project\WEGA\WEGA2\main.c	242;"	l	line:242
+ADC_COLT::ADC_CH2	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	63;"	d	line:63
+ADC_COLT::ADC_CH2	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	61;"	d	line:61
+ADC_EX::ADC_CH25	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	67;"	d	line:67
+ADC_EX::ADC_CH25	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	65;"	d	line:65
+ADC_IAT::ADC_CH3	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	65;"	d	line:65
+ADC_IAT::ADC_CH3	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	63;"	d	line:63
+ADC_LAMBDA::ADC_CH5	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	66;"	d	line:66
+ADC_LAMBDA::ADC_CH5	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	64;"	d	line:64
+ADC_MAP::ADC_CH0	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	61;"	d	line:61
+ADC_MAP::ADC_CH0	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	59;"	d	line:59
+ADC_PWR::ADC_CH4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	64;"	d	line:64
+ADC_PWR::ADC_CH4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	62;"	d	line:62
+ADC_TPS::ADC_CH1	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	62;"	d	line:62
+ADC_TPS::ADC_CH1	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	60;"	d	line:60
+ADCdelay	D:\DOC\Project\WEGA\WEGA2\main.c	166;"	l	line:166	file:
+ADCread	D:\DOC\Project\WEGA\WEGA2\main.c	238;"	f	line:238
+AFSTEN	D:\DOC\Project\WEGA\WEGA2\Main.h	32;"	m	line:32
+APressure	D:\DOC\Project\WEGA\WEGA2\Main.h	56;"	m	line:56
+Accel	D:\DOC\Project\WEGA\WEGA2\Main.h	28;"	m	line:28
+Accel_ENR	D:\DOC\Project\WEGA\WEGA2\Main.h	86;"	m	line:86
+AirPressure	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+AllInjectionClose	D:\DOC\Project\WEGA\WEGA2\Injection.c	8;"	f	line:8	signature:(void)
+BOR	D:\DOC\Project\WEGA\WEGA2\Main.h	41;"	m	line:41
+BYTE55	D:\DOC\Project\WEGA\WEGA2\Main.h	154;"	m	line:154
+BYTEA5	D:\DOC\Project\WEGA\WEGA2\Main.h	108;"	m	line:108
+BYTEAA	D:\DOC\Project\WEGA\WEGA2\Main.h	153;"	m	line:153
+BYTEAF	D:\DOC\Project\WEGA\WEGA2\Main.h	15;"	m	line:15
+Base_Req_Fuel::5000	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	24;"	d	line:24
+Base_Req_Fuel::5000	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	23;"	d	line:23
+Byte_Counter	D:\DOC\Project\WEGA\WEGA2\Main.h	109;"	m	line:109
+Byte_Counter	D:\DOC\Project\WEGA\WEGA2\Main.h	155;"	m	line:155
+Byte_Counter	D:\DOC\Project\WEGA\WEGA2\Main.h	16;"	m	line:16
+Byte_resieve	D:\DOC\Project\WEGA\WEGA2\main.c	15;"	v	line:15
+CCP1Event	D:\DOC\Project\WEGA\WEGA2\main.c	290;"	f	line:290
+CCP2Event	D:\DOC\Project\WEGA\WEGA2\main.c	295;"	f	line:295
+CCP3Event	D:\DOC\Project\WEGA\WEGA2\main.c	301;"	f	line:301
+CHK_SUM_TX	D:\DOC\Project\WEGA\WEGA2\Main.h	104;"	m	line:104
+CHK_SUM_TX	D:\DOC\Project\WEGA\WEGA2\Main.h	149;"	m	line:149
+CHK_SUM_TX	D:\DOC\Project\WEGA\WEGA2\Main.h	239;"	m	line:239
+CH_Inject::4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	44;"	d	line:44
+CH_Inject::4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	43;"	d	line:43
+CLTR	D:\DOC\Project\WEGA\WEGA2\IAC.c	55;"	l	line:55
+CLT_DATA	D:\DOC\Project\WEGA\WEGA2\main.c	214;"	l	line:214
+CLT_ERR	D:\DOC\Project\WEGA\WEGA2\Main.h	44;"	m	line:44
+CLT_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+CLTtype	D:\DOC\Project\WEGA\WEGA2\Main.h	96;"	m	line:96
+COLT	D:\DOC\Project\WEGA\WEGA2\Main.h	55;"	m	line:55
+COMP	D:\DOC\Project\WEGA\WEGA2\Main.h	43;"	m	line:43
+CRANK_COLT::30000	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	57;"	d	line:57
+CRANK_COLT::30000	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	55;"	d	line:55
+CRANK_HOT::3000	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	56;"	d	line:56
+CRANK_HOT::3000	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	54;"	d	line:54
+CYL	D:\DOC\Project\WEGA\WEGA2\Main.h	95;"	m	line:95
+Cal_struct	D:\DOC\Project\WEGA\WEGA2\Main.h	150;"	t	line:150
+Cdelay	D:\DOC\Project\WEGA\WEGA2\main.c	166;"	l	line:166	file:
+CheckInj	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	106;"	f	line:106	signature:(void)
+CheckInj	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	13;"	p	line:13	signature:(void)
+ColtF	D:\DOC\Project\WEGA\WEGA2\Main.h	54;"	m	line:54
+CompareGroup1	D:\DOC\Project\WEGA\WEGA2\Injection.c	97;"	f	line:97	signature:(void)
+CompareGroup1	D:\DOC\Project\WEGA\WEGA2\injection.h	3;"	p	line:3	signature:(void)
+CompareGroup2	D:\DOC\Project\WEGA\WEGA2\Injection.c	113;"	f	line:113	signature:(void)
+CompareGroup2	D:\DOC\Project\WEGA\WEGA2\injection.h	4;"	p	line:4	signature:(void)
+CutOff	D:\DOC\Project\WEGA\WEGA2\Main.h	81;"	m	line:81
+Cyl1	D:\DOC\Project\WEGA\WEGA2\Main.h	161;"	m	line:161
+Cyl2	D:\DOC\Project\WEGA\WEGA2\Main.h	171;"	m	line:171
+Cyl3	D:\DOC\Project\WEGA\WEGA2\Main.h	181;"	m	line:181
+Cyl4	D:\DOC\Project\WEGA\WEGA2\Main.h	191;"	m	line:191
+Cyl5	D:\DOC\Project\WEGA\WEGA2\Main.h	201;"	m	line:201
+Cyl6	D:\DOC\Project\WEGA\WEGA2\Main.h	211;"	m	line:211
+Cyl7	D:\DOC\Project\WEGA\WEGA2\Main.h	221;"	m	line:221
+Cyl8	D:\DOC\Project\WEGA\WEGA2\Main.h	231;"	m	line:231
+Cyl::4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	45;"	d	line:45
+Cyl::4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	44;"	d	line:44
+Cylinder	D:\DOC\Project\WEGA\WEGA2\main.c	15;"	v	line:15
+DEMFER::26	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	41;"	d	line:41
+DEMFER::26	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	40;"	d	line:40
+DTPS	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	15;"	l	line:15
+D_Accel	D:\DOC\Project\WEGA\WEGA2\Main.h	29;"	m	line:29
+ECU	D:\DOC\Project\WEGA\WEGA2\main.c	10;"	v	line:10
+ECU_struct	D:\DOC\Project\WEGA\WEGA2\Main.h	105;"	t	line:105
+EGRD_CURR	D:\DOC\Project\WEGA\WEGA2\main.c	282;"	l	line:282
+EHXST1	D:\DOC\Project\WEGA\WEGA2\Main.h	165;"	m	line:165
+EHXST2	D:\DOC\Project\WEGA\WEGA2\Main.h	175;"	m	line:175
+EHXST3	D:\DOC\Project\WEGA\WEGA2\Main.h	185;"	m	line:185
+EHXST4	D:\DOC\Project\WEGA\WEGA2\Main.h	195;"	m	line:195
+EHXST5	D:\DOC\Project\WEGA\WEGA2\Main.h	205;"	m	line:205
+EHXST6	D:\DOC\Project\WEGA\WEGA2\Main.h	215;"	m	line:215
+EHXST7	D:\DOC\Project\WEGA\WEGA2\Main.h	225;"	m	line:225
+EHXST8	D:\DOC\Project\WEGA\WEGA2\Main.h	235;"	m	line:235
+EMR	D:\DOC\Project\WEGA\WEGA2\Main.h	31;"	m	line:31
+ERR	D:\DOC\Project\WEGA\WEGA2\Main.h	37;"	m	line:37
+EXT_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+EX_filter	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	200;"	f	line:200	signature:(unsigned int a,unsigned int* Massive)
+EX_filter	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	8;"	p	line:8	signature:(unsigned int a,unsigned int* Massive)
+Econ	D:\DOC\Project\WEGA\WEGA2\Main.h	30;"	m	line:30
+Emul_PND	D:\DOC\Project\WEGA\WEGA2\main.c	179;"	f	line:179	signature:(void)
+Emul_PND_T	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	46;"	f	line:46	signature:(unsigned char RPM, int MAP)
+Emul_PND_T	D:\DOC\Project\WEGA\WEGA2\pnd_emul.h	2;"	p	line:2	signature:(char RPM, int MAP)
+ExtConfig	D:\DOC\Project\WEGA\WEGA2\Main.h	91;"	m	line:91
+ExtSTAT	D:\DOC\Project\WEGA\WEGA2\Main.h	71;"	m	line:71
+FClear	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	82;"	l	line:82
+FL_CLEAR::3027	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	34;"	d	line:34
+FL_CLEAR::3027	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	33;"	d	line:33
+Flag_Corr_equal	D:\DOC\Project\WEGA\WEGA2\main.c	21;"	v	line:21
+Flag_FiveSeconds	D:\DOC\Project\WEGA\WEGA2\main.c	26;"	v	line:26
+Flag_FuelEq	D:\DOC\Project\WEGA\WEGA2\main.c	27;"	v	line:27
+Flag_IAC	D:\DOC\Project\WEGA\WEGA2\main.c	22;"	v	line:22
+Flag_Init_Pos	D:\DOC\Project\WEGA\WEGA2\main.c	28;"	v	line:28
+Flag_Sec_Clock	D:\DOC\Project\WEGA\WEGA2\main.c	25;"	v	line:25
+Flag_Send_data	D:\DOC\Project\WEGA\WEGA2\main.c	19;"	v	line:19
+Flag_Speed_equal	D:\DOC\Project\WEGA\WEGA2\main.c	20;"	v	line:20
+Flag_UART_recieved	D:\DOC\Project\WEGA\WEGA2\main.c	18;"	v	line:18
+Flag_setADC_chenal	D:\DOC\Project\WEGA\WEGA2\main.c	24;"	v	line:24
+Flag_set_IAC	D:\DOC\Project\WEGA\WEGA2\main.c	23;"	v	line:23
+Fuel_Calculate	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	9;"	f	line:9
+Fuel_Calculate	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	11;"	p	line:11	signature:(void)
+GazPressure	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	36;"	l	line:36
+GetColt	D:\DOC\Project\WEGA\WEGA2\main.c	210;"	f	line:210	signature:(void)
+Get_Lag	D:\DOC\Project\WEGA\WEGA2\main.c	330;"	f	line:330	signature:(void)
+Get_Table_tiny	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	152;"	f	line:152	signature:(unsigned char a,unsigned char *Table)
+Get_Table_tiny	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	9;"	p	line:9	signature:(unsigned char C,unsigned char *Table)
+Get_VE	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	160;"	f	line:160	signature:(unsigned char RPM,unsigned char *Table)
+Get_VE	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	10;"	p	line:10	signature:(unsigned char RPM,unsigned char *Table)
+IAC	D:\DOC\Project\WEGA\WEGA2\Main.h	27;"	m	line:27
+IAC_COLT::110	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	28;"	d	line:28
+IAC_COLT::110	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	27;"	d	line:27
+IAC_MAX::210	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	30;"	d	line:30
+IAC_MAX::210	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	29;"	d	line:29
+IAC_MIN::6	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	31;"	d	line:31
+IAC_MIN::6	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	30;"	d	line:30
+IAC_SKIP::600	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	33;"	d	line:33
+IAC_SKIP::600	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	32;"	d	line:32
+IAC_Stab	D:\DOC\Project\WEGA\WEGA2\IAC.c	49;"	f	line:49	signature:(void)
+IAC_Stab	D:\DOC\Project\WEGA\WEGA2\IAC.h	5;"	p	line:5	signature:(void)
+IAC_WARM::25	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	29;"	d	line:29
+IAC_WARM::25	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	28;"	d	line:28
+IACskipc	D:\DOC\Project\WEGA\WEGA2\Config.h	14;"	v	line:14
+IAT	D:\DOC\Project\WEGA\WEGA2\Main.h	101;"	m	line:101
+IAT_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+IDLE::LD1	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	15;"	d	line:15
+IDLE::LD1	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	15;"	d	line:15
+IGN1::LD3	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	12;"	d	line:12
+IGN1::LD3	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	12;"	d	line:12
+INIT	D:\DOC\Project\WEGA\WEGA2\main.c	31;"	f	line:31
+INJ1::LC0	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	4;"	d	line:4
+INJ1::LC0	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	4;"	d	line:4
+INJ2::LC1	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	5;"	d	line:5
+INJ2::LC1	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	5;"	d	line:5
+INJ3::LC2	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	6;"	d	line:6
+INJ3::LC2	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	6;"	d	line:6
+INJ4::LC3	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	7;"	d	line:7
+INJ4::LC3	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	7;"	d	line:7
+INJ5::LC4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	8;"	d	line:8
+INJ5::LC4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	8;"	d	line:8
+INJ6::LC5	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	9;"	d	line:9
+INJ6::LC5	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	9;"	d	line:9
+INJ_LAG	D:\DOC\Project\WEGA\WEGA2\Main.h	62;"	m	line:62
+Ign0	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+Index	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	143;"	l	line:143
+Index	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	154;"	l	line:154
+Index	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	217;"	l	line:217
+Inject_Mode::0	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	43;"	d	line:43
+Inject_Mode::0	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	42;"	d	line:42
+Injection	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	11;"	l	line:11
+Injection	D:\DOC\Project\WEGA\WEGA2\Injection.c	101;"	l	line:101
+Injection	D:\DOC\Project\WEGA\WEGA2\Injection.c	117;"	l	line:117
+IntpRes	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	177;"	f	line:177	signature:(int Low_d,int Hi_d,unsigned char C)
+IntpRes	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	5;"	p	line:5	signature:(int Low_d,int Hi_d,unsigned char C)
+IntpResL	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	182;"	f	line:182	signature:(int Low_d,int Hi_d,unsigned char C)
+IntpResL	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	6;"	p	line:6	signature:(int Low_d,int Hi_d,unsigned char C)
+LAG	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	51;"	v	line:51
+LAG	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	49;"	v	line:49
+LAG_LPG	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	52;"	v	line:52
+LAG_LPG	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	50;"	v	line:50
+LGP_st	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	99;"	f	line:99	signature:(void)
+LPG	D:\DOC\Project\WEGA\WEGA2\Main.h	74;"	m	line:74
+LPGPres	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	101;"	l	line:101
+LPGPressure	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+LPG_Req_Fuel::10000	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	25;"	d	line:25
+LPG_Req_Fuel::10000	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	24;"	d	line:24
+Lambda	D:\DOC\Project\WEGA\WEGA2\Lambda.h	3;"	v	line:3
+Lambda_ERR	D:\DOC\Project\WEGA\WEGA2\Main.h	46;"	m	line:46
+LoadCounter	D:\DOC\Project\WEGA\WEGA2\main.c	13;"	v	line:13
+Load_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+MAP1	D:\DOC\Project\WEGA\WEGA2\Main.h	164;"	m	line:164
+MAP100_Offcet::153	D:\DOC\Project\WEGA\WEGA2\Config.h	19;"	d	line:19
+MAP100_slope::242	D:\DOC\Project\WEGA\WEGA2\Config.h	18;"	d	line:18
+MAP115_Offcet::95	D:\DOC\Project\WEGA\WEGA2\Config.h	22;"	d	line:22
+MAP115_slope::285	D:\DOC\Project\WEGA\WEGA2\Config.h	21;"	d	line:21
+MAP2	D:\DOC\Project\WEGA\WEGA2\Main.h	174;"	m	line:174
+MAP250_Offcet::40	D:\DOC\Project\WEGA\WEGA2\Config.h	25;"	d	line:25
+MAP250_slope::640	D:\DOC\Project\WEGA\WEGA2\Config.h	24;"	d	line:24
+MAP3	D:\DOC\Project\WEGA\WEGA2\Main.h	184;"	m	line:184
+MAP4	D:\DOC\Project\WEGA\WEGA2\Main.h	194;"	m	line:194
+MAP400_Offcet::8	D:\DOC\Project\WEGA\WEGA2\Config.h	28;"	d	line:28
+MAP400_slope::1060	D:\DOC\Project\WEGA\WEGA2\Config.h	27;"	d	line:27
+MAP5	D:\DOC\Project\WEGA\WEGA2\Main.h	204;"	m	line:204
+MAP6	D:\DOC\Project\WEGA\WEGA2\Main.h	214;"	m	line:214
+MAP7	D:\DOC\Project\WEGA\WEGA2\Main.h	224;"	m	line:224
+MAP8	D:\DOC\Project\WEGA\WEGA2\Main.h	234;"	m	line:234
+MAP_ERR	D:\DOC\Project\WEGA\WEGA2\Main.h	45;"	m	line:45
+MAP_LPG_Offcet::MAP250_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	51;"	d	line:51
+MAP_LPG_Offcet::MAP400_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	54;"	d	line:54
+MAP_LPG_slope::MAP250_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	50;"	d	line:50
+MAP_LPG_slope::MAP400_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	53;"	d	line:53
+MAP_LPG_type::3	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	47;"	d	line:47
+MAP_LPG_type::3	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	46;"	d	line:46
+MAP_Offcet::MAP100_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	33;"	d	line:33
+MAP_Offcet::MAP115_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	36;"	d	line:36
+MAP_Offcet::MAP250_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	39;"	d	line:39
+MAP_Offcet::MAP400_Offcet	D:\DOC\Project\WEGA\WEGA2\Config.h	42;"	d	line:42
+MAP_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+MAP_slope::MAP100_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	32;"	d	line:32
+MAP_slope::MAP115_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	35;"	d	line:35
+MAP_slope::MAP250_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	38;"	d	line:38
+MAP_slope::MAP400_slope	D:\DOC\Project\WEGA\WEGA2\Config.h	41;"	d	line:41
+MAP_type::1	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	46;"	d	line:46
+MAP_type::2	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	45;"	d	line:45
+MAPtype	D:\DOC\Project\WEGA\WEGA2\Main.h	94;"	m	line:94
+MSpeed	D:\DOC\Project\WEGA\WEGA2\main.c	391;"	l	line:391
+Minutes	D:\DOC\Project\WEGA\WEGA2\main.c	419;"	l	line:419	file:
+MotoClock	D:\DOC\Project\WEGA\WEGA2\Main.h	65;"	m	line:65
+Motor_stopped	D:\DOC\Project\WEGA\WEGA2\main.c	152;"	f	line:152
+MtrTst_struct	D:\DOC\Project\WEGA\WEGA2\Main.h	240;"	t	line:240
+Mtr_On	D:\DOC\Project\WEGA\WEGA2\Main.h	25;"	m	line:25
+O2S	D:\DOC\Project\WEGA\WEGA2\Main.h	58;"	m	line:58
+PIN1::PORTA,4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	20;"	d	line:20
+PIN1::PORTA,4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	20;"	d	line:20
+POWER	D:\DOC\Project\WEGA\WEGA2\Main.h	59;"	m	line:59
+PR_PULSE::1000	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	36;"	d	line:36
+PR_PULSE::1000	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	35;"	d	line:35
+PUMP::LD0	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	14;"	d	line:14
+PUMP::LD0	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	14;"	d	line:14
+PUMPCounter	D:\DOC\Project\WEGA\WEGA2\main.c	12;"	v	line:12
+PWR_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+Paket_size	D:\DOC\Project\WEGA\WEGA2\Main.h	111;"	m	line:111
+Paket_size	D:\DOC\Project\WEGA\WEGA2\Main.h	157;"	m	line:157
+Paket_size	D:\DOC\Project\WEGA\WEGA2\Main.h	18;"	m	line:18
+Paket_version	D:\DOC\Project\WEGA\WEGA2\Main.h	110;"	m	line:110
+Paket_version	D:\DOC\Project\WEGA\WEGA2\Main.h	156;"	m	line:156
+Paket_version	D:\DOC\Project\WEGA\WEGA2\Main.h	17;"	m	line:17
+ParParINJ	D:\DOC\Project\WEGA\WEGA2\Main.h	75;"	m	line:75
+RCO	D:\DOC\Project\WEGA\WEGA2\Main.h	115;"	m	line:115
+RCO	D:\DOC\Project\WEGA\WEGA2\Main.h	64;"	m	line:64
+RPM	D:\DOC\Project\WEGA\WEGA2\Main.h	60;"	m	line:60
+RPM2Tabl	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	11;"	v	line:11
+RPM_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+ReadTable	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	141;"	f	line:141	signature:(unsigned int a,const unsigned int *Massive)
+ReadTable	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	4;"	p	line:4	signature:(unsigned int a,const unsigned int* Massive)
+Res11	D:\DOC\Project\WEGA\WEGA2\Main.h	78;"	m	line:78
+Res22	D:\DOC\Project\WEGA\WEGA2\Main.h	79;"	m	line:79
+Res33	D:\DOC\Project\WEGA\WEGA2\Main.h	80;"	m	line:80
+RqF	D:\DOC\Project\WEGA\WEGA2\Main.h	63;"	m	line:63
+RqFb	D:\DOC\Project\WEGA\WEGA2\Main.h	113;"	m	line:113
+RqFc	D:\DOC\Project\WEGA\WEGA2\Main.h	114;"	m	line:114
+SMA_filter	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	188;"	f	line:188	signature:(unsigned int a,unsigned int* Massive)
+SMA_filter	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	7;"	p	line:7	signature:(unsigned int a,unsigned int* Massive)
+SPARKEvent	D:\DOC\Project\WEGA\WEGA2\main.c	308;"	f	line:308
+SPD1	D:\DOC\Project\WEGA\WEGA2\Main.h	166;"	m	line:166
+SPD2	D:\DOC\Project\WEGA\WEGA2\Main.h	176;"	m	line:176
+SPD3	D:\DOC\Project\WEGA\WEGA2\Main.h	186;"	m	line:186
+SPD4	D:\DOC\Project\WEGA\WEGA2\Main.h	196;"	m	line:196
+SPD5	D:\DOC\Project\WEGA\WEGA2\Main.h	206;"	m	line:206
+SPD6	D:\DOC\Project\WEGA\WEGA2\Main.h	216;"	m	line:216
+SPD7	D:\DOC\Project\WEGA\WEGA2\Main.h	226;"	m	line:226
+SPD8	D:\DOC\Project\WEGA\WEGA2\Main.h	236;"	m	line:236
+SPD_COLT::1250	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	39;"	d	line:39
+SPD_COLT::1250	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	38;"	d	line:38
+SPD_CONST	D:\DOC\Project\WEGA\WEGA2\Config.h	13;"	v	line:13
+SPD_EPHH::1400	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	40;"	d	line:40
+SPD_EPHH::1400	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	39;"	d	line:39
+SPD_Enr	D:\DOC\Project\WEGA\WEGA2\Main.h	102;"	m	line:102
+SPD_HOT::850	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	38;"	d	line:38
+SPD_HOT::850	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	37;"	d	line:37
+SPD_array	D:\DOC\Project\WEGA\WEGA2\main.c	14;"	v	line:14
+STAT	D:\DOC\Project\WEGA\WEGA2\Main.h	22;"	m	line:22
+STEPA::LB4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	16;"	d	line:16
+STEPA::LB4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	16;"	d	line:16
+STEPB::LB3	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	17;"	d	line:17
+STEPB::LB3	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	17;"	d	line:17
+STEPCNT	D:\DOC\Project\WEGA\WEGA2\Main.h	53;"	m	line:53
+STP_Close	D:\DOC\Project\WEGA\WEGA2\IAC.c	23;"	f	line:23
+STP_Close	D:\DOC\Project\WEGA\WEGA2\IAC.h	8;"	p	line:8	signature:()
+STP_Init	D:\DOC\Project\WEGA\WEGA2\IAC.c	33;"	f	line:33
+STP_Init	D:\DOC\Project\WEGA\WEGA2\IAC.h	3;"	p	line:3	signature:(void)
+STP_Open	D:\DOC\Project\WEGA\WEGA2\IAC.c	13;"	f	line:13
+STP_Open	D:\DOC\Project\WEGA\WEGA2\IAC.h	4;"	p	line:4	signature:()
+STP_Open	D:\DOC\Project\WEGA\WEGA2\IAC.h	7;"	p	line:7	signature:()
+STP_Set	D:\DOC\Project\WEGA\WEGA2\IAC.c	44;"	f	line:44	signature:(char p)
+STP_Set	D:\DOC\Project\WEGA\WEGA2\IAC.h	6;"	p	line:6	signature:(char p)
+STPdelay	D:\DOC\Project\WEGA\WEGA2\main.c	166;"	l	line:166	file:
+SYNC	D:\DOC\Project\WEGA\WEGA2\Main.h	47;"	m	line:47
+Seconds	D:\DOC\Project\WEGA\WEGA2\main.c	419;"	l	line:419	file:
+SeqINJ	D:\DOC\Project\WEGA\WEGA2\Main.h	76;"	m	line:76
+SetInjection	D:\DOC\Project\WEGA\WEGA2\Injection.c	70;"	f	line:70	signature:(void)
+SetInjection	D:\DOC\Project\WEGA\WEGA2\injection.h	2;"	p	line:2	signature:(void)
+Set_ADC_MAP	D:\DOC\Project\WEGA\WEGA2\main.c	352;"	f	line:352	signature:(void)
+Set_TPS_MAP	D:\DOC\Project\WEGA\WEGA2\main.c	359;"	f	line:359	signature:(void)
+Slope	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	154;"	l	line:154
+Slope	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	217;"	l	line:217
+Span	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	143;"	l	line:143
+Span	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	154;"	l	line:154
+Span	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	217;"	l	line:217
+Spark2	D:\DOC\Project\WEGA\WEGA2\main.c	318;"	f	line:318
+Sync	D:\DOC\Project\WEGA\WEGA2\main.c	322;"	f	line:322	signature:(void)
+Sync_On	D:\DOC\Project\WEGA\WEGA2\Main.h	77;"	m	line:77
+TCycle	D:\DOC\Project\WEGA\WEGA2\main.c	391;"	l	line:391
+TIME_INJ	D:\DOC\Project\WEGA\WEGA2\Main.h	61;"	m	line:61
+TMR0Event	D:\DOC\Project\WEGA\WEGA2\main.c	164;"	f	line:164
+TMR1Event	D:\DOC\Project\WEGA\WEGA2\main.c	176;"	f	line:176
+TMRC	D:\DOC\Project\WEGA\WEGA2\main.c	12;"	v	line:12
+TPS	D:\DOC\Project\WEGA\WEGA2\Main.h	57;"	m	line:57
+TPS1	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	14;"	l	line:14	file:
+TXdelay	D:\DOC\Project\WEGA\WEGA2\main.c	166;"	l	line:166	file:
+T_COLT::0x1D4	D:\DOC\Project\WEGA\WEGA2\main.c	212;"	d	line:212	file:
+T_HOT::0xB4	D:\DOC\Project\WEGA\WEGA2\main.c	213;"	d	line:213	file:
+TestPoint1::LD5	D:\DOC\Project\WEGA\WEGA2\Config.h	9;"	d	line:9
+TestPoint2::RD6	D:\DOC\Project\WEGA\WEGA2\Config.h	10;"	d	line:10
+TestPoint3::RD7	D:\DOC\Project\WEGA\WEGA2\Config.h	11;"	d	line:11
+UOZ	D:\DOC\Project\WEGA\WEGA2\Main.h	100;"	m	line:100
+VE	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	215;"	f	line:215	signature:(unsigned char a,unsigned char* Table)
+VE	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	12;"	p	line:12	signature:(unsigned char a,unsigned char *Table)
+VE1200	D:\DOC\Project\WEGA\WEGA2\Main.h	137;"	m	line:137
+VE1200	D:\DOC\Project\WEGA\WEGA2\Main.h	246;"	m	line:246
+VE1600	D:\DOC\Project\WEGA\WEGA2\Main.h	138;"	m	line:138
+VE1600	D:\DOC\Project\WEGA\WEGA2\Main.h	247;"	m	line:247
+VE2400	D:\DOC\Project\WEGA\WEGA2\Main.h	139;"	m	line:139
+VE2400	D:\DOC\Project\WEGA\WEGA2\Main.h	248;"	m	line:248
+VE3200	D:\DOC\Project\WEGA\WEGA2\Main.h	140;"	m	line:140
+VE3200	D:\DOC\Project\WEGA\WEGA2\Main.h	249;"	m	line:249
+VE400	D:\DOC\Project\WEGA\WEGA2\Main.h	135;"	m	line:135
+VE400	D:\DOC\Project\WEGA\WEGA2\Main.h	244;"	m	line:244
+VE4000	D:\DOC\Project\WEGA\WEGA2\Main.h	141;"	m	line:141
+VE4000	D:\DOC\Project\WEGA\WEGA2\Main.h	250;"	m	line:250
+VE4800	D:\DOC\Project\WEGA\WEGA2\Main.h	142;"	m	line:142
+VE4800	D:\DOC\Project\WEGA\WEGA2\Main.h	251;"	m	line:251
+VE5600	D:\DOC\Project\WEGA\WEGA2\Main.h	143;"	m	line:143
+VE5600	D:\DOC\Project\WEGA\WEGA2\Main.h	252;"	m	line:252
+VE6400	D:\DOC\Project\WEGA\WEGA2\Main.h	144;"	m	line:144
+VE6400	D:\DOC\Project\WEGA\WEGA2\Main.h	253;"	m	line:253
+VE800	D:\DOC\Project\WEGA\WEGA2\Main.h	136;"	m	line:136
+VE800	D:\DOC\Project\WEGA\WEGA2\Main.h	245;"	m	line:245
+VEStrct	D:\DOC\Project\WEGA\WEGA2\Main.h	145;"	m	line:145
+VE_Table	D:\DOC\Project\WEGA\WEGA2\Main.h	132;"	m	line:132
+VE_struct	D:\DOC\Project\WEGA\WEGA2\Main.h	255;"	t	line:255
+VE_table	D:\DOC\Project\WEGA\WEGA2\main.c	11;"	v	line:11
+Vout	D:\DOC\Project\WEGA\WEGA2\main.c	181;"	l	line:181
+WARM_12	D:\DOC\Project\WEGA\WEGA2\Main.h	87;"	m	line:87
+WARM_20	D:\DOC\Project\WEGA\WEGA2\Main.h	68;"	m	line:68
+WARM_40	D:\DOC\Project\WEGA\WEGA2\Main.h	84;"	m	line:84
+WARM_50	D:\DOC\Project\WEGA\WEGA2\Main.h	85;"	m	line:85
+WARM_80	D:\DOC\Project\WEGA\WEGA2\Main.h	67;"	m	line:67
+WARM_TRSH::54	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	37;"	d	line:37
+WARM_TRSH::54	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	36;"	d	line:36
+WARM_UP::LD4	D:\DOC\Project\WEGA\WEGA2\Config_2108.h	19;"	d	line:19
+WARM_UP::LD4	D:\DOC\Project\WEGA\WEGA2\Config_AAD.h	19;"	d	line:19
+WDT	D:\DOC\Project\WEGA\WEGA2\Main.h	40;"	m	line:40
+Warm	D:\DOC\Project\WEGA\WEGA2\Main.h	26;"	m	line:26
+WarmStruct	D:\DOC\Project\WEGA\WEGA2\Main.h	128;"	m	line:128
+WarmTable	D:\DOC\Project\WEGA\WEGA2\Main.h	120;"	m	line:120
+Warm_Enr	D:\DOC\Project\WEGA\WEGA2\Main.h	103;"	m	line:103
+Warm_m_12	D:\DOC\Project\WEGA\WEGA2\Main.h	124;"	m	line:124
+Warm_m_40	D:\DOC\Project\WEGA\WEGA2\Main.h	123;"	m	line:123
+Warm_p_20	D:\DOC\Project\WEGA\WEGA2\Main.h	125;"	m	line:125
+Warm_p_50	D:\DOC\Project\WEGA\WEGA2\Main.h	126;"	m	line:126
+Warm_p_80	D:\DOC\Project\WEGA\WEGA2\Main.h	127;"	m	line:127
+X	D:\DOC\Project\WEGA\WEGA2\linInterp.c	10;"	v	line:10
+Y	D:\DOC\Project\WEGA\WEGA2\linInterp.c	11;"	v	line:11
+Z	D:\DOC\Project\WEGA\WEGA2\linInterp.c	12;"	v	line:12
+_XTAL_FREQ::64000000	D:\DOC\Project\WEGA\WEGA2\Config.h	2;"	d	line:2
+byte	D:\DOC\Project\WEGA\WEGA2\linInterp.h	16;"	t	line:16
+column	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	48;"	l	line:48
+delay	D:\DOC\Project\WEGA\WEGA2\Main.h	257;"	p	line:257	signature:(unsigned int ms)
+delay	D:\DOC\Project\WEGA\WEGA2\main.c	348;"	f	line:348	signature:(unsigned int ms)
+dt	D:\DOC\Project\WEGA\WEGA2\main.c	30;"	v	line:30
+ereserv	D:\DOC\Project\WEGA\WEGA2\Main.h	97;"	m	line:97
+false::0;	D:\DOC\Project\WEGA\WEGA2\linInterp.c	9;"	d	line:9	file:
+findZ	D:\DOC\Project\WEGA\WEGA2\linInterp.c	57;"	f	line:57	signature:(int x, int y)
+hidt	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	217;"	l	line:217
+hidt	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	64;"	l	line:64
+high_isr	D:\DOC\Project\WEGA\WEGA2\main.c	426;"	f	line:426	signature:(void)
+i1	D:\DOC\Project\WEGA\WEGA2\Main.h	6;"	m	line:6
+i2	D:\DOC\Project\WEGA\WEGA2\Main.h	7;"	m	line:7
+index	D:\DOC\Project\WEGA\WEGA2\linInterp.h	13;"	m	line:13	struct:search_table_t
+lbound	D:\DOC\Project\WEGA\WEGA2\linInterp.h	11;"	m	line:11	struct:search_table_t
+linInterp2D	D:\DOC\Project\WEGA\WEGA2\linInterp.c	21;"	f	line:21	signature:(int x1, int y1,int x2, int y2,int x)
+linInterp3D	D:\DOC\Project\WEGA\WEGA2\linInterp.c	29;"	f	line:29	signature:( int x1, int y1, int x2, int y2, int z11, int z21, int z12, int z22, int x, int y )
+linear_interp	D:\DOC\Project\WEGA\WEGA2\linInterp.h	6;"	p	line:6	signature:(uint8_t x1, uint8_t x2, uint8_t y1, uint8_t y2, uint8_t x)
+low_isr	D:\DOC\Project\WEGA\WEGA2\main.c	441;"	f	line:441	signature:(void)
+lowdt	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	217;"	l	line:217
+lowdt	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	63;"	l	line:63
+main	D:\DOC\Project\WEGA\WEGA2\main.c	366;"	f	line:366
+map	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	171;"	f	line:171	signature:(long x, long in_min, long in_max, long out_min, long out_max)
+map	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.h	3;"	p	line:3	signature:(long x, long in_min, long in_max, long out_min, long out_max)
+math_struct	D:\DOC\Project\WEGA\WEGA2\Main.h	8;"	t	line:8
+mckc	D:\DOC\Project\WEGA\WEGA2\main.c	166;"	l	line:166	file:
+n	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	190;"	l	line:190
+n	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	202;"	l	line:202
+out	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	48;"	l	line:48
+overINJ	D:\DOC\Project\WEGA\WEGA2\Main.h	42;"	m	line:42
+p	D:\DOC\Project\WEGA\WEGA2\main.c	16;"	v	line:16
+pres	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	48;"	l	line:48
+prom	D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.c	184;"	l	line:184
+reserv2	D:\DOC\Project\WEGA\WEGA2\Main.h	88;"	m	line:88
+search_table	D:\DOC\Project\WEGA\WEGA2\linInterp.h	7;"	p	line:7	signature:(uint8_t *tbl, uint8_t tbl_length, uint8_t item, struct search_table_t *r)
+search_table_t	D:\DOC\Project\WEGA\WEGA2\linInterp.h	10;"	s	line:10
+setADC	D:\DOC\Project\WEGA\WEGA2\main.c	188;"	f	line:188
+size_X	D:\DOC\Project\WEGA\WEGA2\linInterp.c	18;"	v	line:18
+size_Y	D:\DOC\Project\WEGA\WEGA2\linInterp.c	19;"	v	line:19
+span	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	48;"	l	line:48
+true::1;	D:\DOC\Project\WEGA\WEGA2\linInterp.c	8;"	d	line:8	file:
+ubound	D:\DOC\Project\WEGA\WEGA2\linInterp.h	12;"	m	line:12	struct:search_table_t
+uint16_t	D:\DOC\Project\WEGA\WEGA2\Main.h	3;"	t	line:3
+uint8_t	D:\DOC\Project\WEGA\WEGA2\Main.h	2;"	t	line:2
+x00	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x09	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x0A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x0C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x0D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x1	D:\DOC\Project\WEGA\WEGA2\linInterp.c	59;"	l	line:59
+x10	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x11	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x12	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x14	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x15	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x16	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x17	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x18	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x19	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x1A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x1C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x1E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x1i	D:\DOC\Project\WEGA\WEGA2\linInterp.c	59;"	l	line:59
+x2	D:\DOC\Project\WEGA\WEGA2\linInterp.c	61;"	l	line:61
+x20	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x21	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x22	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x23	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x24	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x25	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x26	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x27	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x28	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x29	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x2i	D:\DOC\Project\WEGA\WEGA2\linInterp.c	61;"	l	line:61
+x30	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x31	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x32	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x33	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x34	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x35	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x36	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x37	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x38	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x39	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x3A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x3C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x3D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x40	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x41	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x42	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x43	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x44	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x45	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x46	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x47	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x48	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x49	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x4F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x50	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x51	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x52	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x54	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x55	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x56	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x57	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x59	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x5F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x60	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x61	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x62	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x63	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x64	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x65	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x66	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x67	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x69	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x6F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x70	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x71	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x72	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x73	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x74	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x75	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x76	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x77	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x78	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x79	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x7F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x80	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x81	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x82	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x83	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x84	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x85	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x86	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x87	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x88	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x89	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x8A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x8B	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x8C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x8D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x8E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x90	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x92	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x93	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x94	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x95	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x96	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x97	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x99	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x9A	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x9C	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x9D	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x9E	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x9F	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA0	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA1	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA2	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA3	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA4	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA6	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA7	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA8	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xA9	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xAA	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xAB	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xAD	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xAE	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xAF	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xB1	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xB2	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xB3	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xB4	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xF9	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+xFF	D:\DOC\Project\WEGA\WEGA2\pnd_emul.c	44;"	v	line:44
+x_inside_range	D:\DOC\Project\WEGA\WEGA2\linInterp.c	68;"	l	line:68	file:
+y	D:\DOC\Project\WEGA\WEGA2\linInterp.c	24;"	l	line:24
+y1	D:\DOC\Project\WEGA\WEGA2\linInterp.c	60;"	l	line:60
+y1i	D:\DOC\Project\WEGA\WEGA2\linInterp.c	60;"	l	line:60
+y2	D:\DOC\Project\WEGA\WEGA2\linInterp.c	62;"	l	line:62
+y2i	D:\DOC\Project\WEGA\WEGA2\linInterp.c	62;"	l	line:62
+y_inside_range	D:\DOC\Project\WEGA\WEGA2\linInterp.c	69;"	l	line:69	file:
+z	D:\DOC\Project\WEGA\WEGA2\linInterp.c	52;"	l	line:52
+z1	D:\DOC\Project\WEGA\WEGA2\linInterp.c	50;"	l	line:50
+z11	D:\DOC\Project\WEGA\WEGA2\linInterp.c	63;"	l	line:63
+z12	D:\DOC\Project\WEGA\WEGA2\linInterp.c	65;"	l	line:65
+z2	D:\DOC\Project\WEGA\WEGA2\linInterp.c	51;"	l	line:51
+z21	D:\DOC\Project\WEGA\WEGA2\linInterp.c	64;"	l	line:64
+z22	D:\DOC\Project\WEGA\WEGA2\linInterp.c	66;"	l	line:66

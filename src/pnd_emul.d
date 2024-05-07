@@ -1,0 +1,1 @@
+ pnd_emul.d  pnd_emul.p1:  D:/DOC/Project/WEGA/WEGA2/pnd_emul.c

@@ -1,0 +1,250 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\DOC\Project\WEGA\WEGA2\main.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\DOC\Project\WEGA\WEGA2\Fuel_Calc.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=D:\DOC\Project\WEGA\WEGA2\linInterp.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=D:\DOC\Project\WEGA\WEGA2\pnd_emul.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=D:\DOC\Project\WEGA\WEGA2\IAC.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=D:\DOC\Project\WEGA\WEGA2\Injection.p1
+Folder=Intermediary
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.cof
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.hex
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.sym
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.map
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.hxl
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=D:\DOC\Project\WEGA\WEGA2\startup.lst
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=D:\DOC\Project\WEGA\WEGA2\startup.rlf
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=D:\DOC\Project\WEGA\WEGA2\doprnt.p1
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=D:\DOC\Project\WEGA\WEGA2\doprnt.pre
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File015]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.obj
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File016]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.lst
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File017]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.rlf
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=
+[File018]
+Location=D:\DOC\Project\WEGA\WEGA2\WEGA.sdb
+Folder=Output
+DeviceName=PIC18F46K22
+LanguageToolSuiteID={38171385-97B2-4EC5-BF2C-C2C027BA5B04}
+LanguageToolID={B6D1F1C2-3E8A-49F6-9C0A-75F5EBE32222}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc8\v1.33\bin\xc8.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|Fuel_Calc.c|linInterp.c|pnd_emul.c|IAC.c|Injection.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=255 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 127=0 C9=1 FE=31 EC=1 F0=0 EF=1 EE=0 104=0 E9= C4=0 F2= F3= F4= F8=1 F5= F9=0 FA=0 FB=0 C0=0 C1=0 BD=0 BC=0 BB=0 BF=0 BE=0 B8= 101=0 103= 102=0 BA= FF=0 100=0 106=0 109=0 10A=1 10B=0 10C=0 10E=0 10F=1 110=1 118=0 116=0 117= 10D=0 114=-1 113=-1 111=0 115=-1 F5= E5=0 E7=0 E8=1 126=1 F1=0 F6= F7= B9=-1 107=0
+TraceCmdString=
+DebugOptions=

@@ -1,0 +1,1 @@
+ IAC.d  IAC.p1:  D:/DOC/Project/WEGA/WEGA2/IAC.c D:/DOC/Project/WEGA/WEGA2/IAC.h D:/DOC/Project/WEGA/WEGA2/Config.h D:/DOC/Project/WEGA/WEGA2/Main.h D:/DOC/Project/WEGA/WEGA2/Config_AAD
